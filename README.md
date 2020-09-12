@@ -1,3 +1,3 @@
 # AndroidXRecyclerView
 AndroidX Recycler View Android Studio
-https://github.com/LearncodeWithRk/AndroidXRecyclerView/issues/1#issue-700101655
+https://www.youtube.com/channel/UCQ188dyxCgqYdG1wRdbJtpw/featured?disable_polymer=1
